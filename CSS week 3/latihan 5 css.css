@@ -1,0 +1,28 @@
+body {
+    background-color: darkcyan;
+  }
+  
+  h1 {
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(255, 225, 0);
+    text-indent: 30px;
+  }
+  
+  h2 {
+    text-align: center;
+    color: rgba(59, 194, 194, 0.593);
+    text-transform: initial;
+  }
+  
+  h3 {
+    text-align: center;
+    color: brown;
+    text-decoration: line-through;
+  }
+  
+  p {
+    text-align: justify;
+    color: black;
+    letter-spacing: normal;
+  }

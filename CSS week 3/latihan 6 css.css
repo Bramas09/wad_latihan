@@ -1,0 +1,11 @@
+body{
+    background-color: azure;
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/fancy-cushion.png);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: aquamarine;
+}
